@@ -1,5 +1,4 @@
-# coding=utf-8
-#!C:\Python27\python.exe
+coding=utf-8
 
 from k8s import Connection
 
