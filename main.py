@@ -36,4 +36,4 @@ class Main():
 #    k8s.setNamespace(args.namespace)
     k8s.listPodsForAllNamespaces()
 #    k8s.listNamespacedPods(args.namespace)
-    k8s.listStorageClass()
+#    k8s.listStorageClass()
